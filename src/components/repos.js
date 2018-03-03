@@ -21,7 +21,7 @@ Repos.defaultProps = {
 
 Repos.propTypes = {
   className: React.PropTypes.string,
-  title: React.PropTypes.string.isRequired,
+  title: React.PropTypes.string.isRequired
 }
 
 export default Repos
