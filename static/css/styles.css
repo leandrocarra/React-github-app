@@ -42,11 +42,18 @@ ul {
   margin: 0;
 }
 
-.actions,
-.repos,
-.starred {
+.actions{
   float: left;
   width: 100%;
+}
+.repos{
+  float: left;
+  width: 45%;
+  margin-right: 8%;
+}
+.starred {
+  float: left;
+  width: 47%;
 }
 
 .actions {
